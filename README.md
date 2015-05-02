@@ -5,7 +5,7 @@ A cubic shape midi controller which is wirelessly connected to computer.
 
 The intial attempts of setup is as following:
 
-  BLENano + Arduino ( transceiver ) --> BLENano + Teensy ( reciever ) --> computer
+  BLENano + Arduino ( as transceiver ) --> BLENano + Teensy ( as reciever ) --> computer
 
 Materials:
 * (2x) [BLENano] (http://redbearlab.com/blenano/)
