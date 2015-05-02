@@ -1,5 +1,5 @@
 # Cubetrument
-(It's a work in progress, and please give me comments if you have any idea, thanks!)
+(It's a **work in progress**, and please give me comments if you have any idea, thanks!)
 
 A cubic shape midi controller which is wirelessly connected to computer.
 
